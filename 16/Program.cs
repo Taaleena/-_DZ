@@ -25,6 +25,4 @@ void PrintResult(int[] array)
    
     
 }
-
-
     PrintResult(FillArray(size));
