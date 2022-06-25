@@ -21,7 +21,7 @@ void PrintResult(int[] array)
         else nechet++;
     }
     Console.WriteLine();
-    System.Console.WriteLine($"Количество четных чисел {chet}, количество нечетных чисел {nechet}");
+    System.Console.WriteLine($"Количество четных чисел {chet}");
    
     
 }
