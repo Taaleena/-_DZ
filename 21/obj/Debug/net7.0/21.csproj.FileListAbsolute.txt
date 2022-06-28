@@ -1,0 +1,5 @@
+D:\C#_DZ\21\obj\Debug\net7.0\21.csproj.AssemblyReference.cache
+D:\C#_DZ\21\obj\Debug\net7.0\21.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_DZ\21\obj\Debug\net7.0\21.AssemblyInfoInputs.cache
+D:\C#_DZ\21\obj\Debug\net7.0\21.AssemblyInfo.cs
+D:\C#_DZ\21\obj\Debug\net7.0\21.csproj.CoreCompileInputs.cache
