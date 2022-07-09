@@ -1,0 +1,15 @@
+D:\C#_DZ\29\bin\Debug\net7.0\29.exe
+D:\C#_DZ\29\bin\Debug\net7.0\29.deps.json
+D:\C#_DZ\29\bin\Debug\net7.0\29.runtimeconfig.json
+D:\C#_DZ\29\bin\Debug\net7.0\29.dll
+D:\C#_DZ\29\bin\Debug\net7.0\29.pdb
+D:\C#_DZ\29\obj\Debug\net7.0\29.csproj.AssemblyReference.cache
+D:\C#_DZ\29\obj\Debug\net7.0\29.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_DZ\29\obj\Debug\net7.0\29.AssemblyInfoInputs.cache
+D:\C#_DZ\29\obj\Debug\net7.0\29.AssemblyInfo.cs
+D:\C#_DZ\29\obj\Debug\net7.0\29.csproj.CoreCompileInputs.cache
+D:\C#_DZ\29\obj\Debug\net7.0\29.dll
+D:\C#_DZ\29\obj\Debug\net7.0\refint\29.dll
+D:\C#_DZ\29\obj\Debug\net7.0\29.pdb
+D:\C#_DZ\29\obj\Debug\net7.0\29.genruntimeconfig.cache
+D:\C#_DZ\29\obj\Debug\net7.0\ref\29.dll
